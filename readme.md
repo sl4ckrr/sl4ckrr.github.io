@@ -3,8 +3,8 @@
 
 <h1 align=center>Rhap5ody Unblocked Games!</h1>
 
-### 360 GAMES :
-v1.5
+### 60 GAMES :
+v1.0
 -----------------
 -moto x3m series.
 -basket random series.
