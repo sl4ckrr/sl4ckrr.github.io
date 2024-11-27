@@ -16,7 +16,6 @@ v1.5
 -flappy games
 -google mini games
 
--
 ### CREDS:
 
 credits to parcoil network for the template.
