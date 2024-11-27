@@ -15,7 +15,8 @@ v1.5
 -slope
 -flappy games
 -google mini games
-----------------
+
+-
 ### CREDS:
 
 credits to parcoil network for the template.
