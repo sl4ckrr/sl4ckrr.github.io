@@ -1,14 +1,7 @@
-// This changes the title of your site
+// This changes the title the website
 
-var sitename = "Games"; // Change this to change the name of your website.
+var sitename = "Rhap5ody"; // Change this to change the name of your website.
 var subtext = "v1.5"; // set the subtext
-
-// more settings in main.css
-
-
-
-// END CONFIG
-// DO NOT MODIFY IF YOU DO NOT KNOW WHAT YOUR DOING!
 
 import "/./config/custom.js";
 
@@ -69,4 +62,3 @@ document
 document.getElementById("title").innerHTML = `${sitename}`;
 
 document.getElementById("subtitle").innerHTML = `${subtext}`
-
