@@ -13,7 +13,7 @@
   },
   {
     "name": "Pokemon FireRed",
-    "image": "red.png",
+    "image": "firered.jpeg",
     "url": "https://2169519.playcode.io/",
     "new": false
   },
@@ -25,7 +25,7 @@
   },
   {
     "name": "smash karts",
-    "image": "2048.png",
+    "image": "smash.jpeg",
     "url": "2048",
     "new": false
   },
