@@ -7,7 +7,7 @@
   },
   {
     "name": "stickman hook",
-    "image": "",
+    "image": "stick.jpeg",
     "url": "https://2044844.playcode.io/",
     "new": false
   },
@@ -19,7 +19,7 @@
   },
   {
     "name": "super mario 64",
-    "image": "",
+    "image": "64.png",
     "url": "",
     "new": false
   },
@@ -31,7 +31,7 @@
   },
   {
     "name": "shell shockers",
-    "image": "",
+    "image": "shock.jpeg",
     "url": "",
     "new": false
   },
