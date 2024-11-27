@@ -28,6 +28,7 @@ body {
 
 /* Search input styles */
 #searchInput {
+  margin-left:400px
   padding: 17px;
   box-sizing: border-box;
   margin-bottom: 20px;
