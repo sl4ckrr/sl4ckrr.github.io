@@ -28,6 +28,7 @@ body {
 
 /* Search input styles */
 #searchInput {
+  position:stick;
   margin-left:400px
   padding: 17px;
   box-sizing: border-box;
@@ -35,7 +36,7 @@ body {
   width: 100%; /* Occupy full width */
   max-width: 400px; /* Limit maximum width */
   margin: 20px auto; /* Center horizontally */
-  border-radius: 10px;
+  border-radius: 5px;
   border: none;
   font-size: 24px;
   user-select: none;
