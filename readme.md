@@ -6,16 +6,16 @@
 ### 180 GAMES :
 v1.0
 -----------------
--  moto x3m series.
-- basket random series.
-- pokemon series (emulator)
-- fnaf 1-4 series
-- fnf week 1-7 & weekend [AND MODS]
-- papa's pizzamia series!
-- slope
-- flappy games
-- google mini games
-- etc.
+ moto x3m series.
+basket random series.
+pokemon series (emulator)
+fnaf 1-4 series
+fnf week 1-7 & weekend [AND MODS]
+papa's pizzamia series!
+slope
+flappy games
+google mini games
+etc.
 
 ### CREDS:
 credits to parcoil network for the template.
