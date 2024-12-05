@@ -11,7 +11,6 @@ input.addEventListener('input', () => {
     }
   });
 });
-
 // This changes the title the website
 
 var sitename = "Rhap5ody"; // Change this to change the name of your website.
