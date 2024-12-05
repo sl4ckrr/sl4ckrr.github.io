@@ -6,7 +6,7 @@
 ### 180 GAMES :
 v1.0
 -----------------
-- moto x3m series.
+-  moto x3m series.
 - basket random series.
 - pokemon series (emulator)
 - fnaf 1-4 series
