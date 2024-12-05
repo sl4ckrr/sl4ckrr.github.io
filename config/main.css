@@ -40,7 +40,7 @@ nav {
     display: flex;
     user-select: none;
     margin-top: 2.5vw;
-    margin-left: 40vw;
+    margin-left: 50vw;
 }
 
 .search input {
@@ -169,6 +169,3 @@ nav {
     text-shadow: 0 0 100px #2c7ffc;
     }
 
-h1{
-  margin-bottom:60px;
-}
