@@ -3,7 +3,7 @@
 
 <h1 align=center>Rhap5ody Unblocked Games!</h1>
 
-### 60 GAMES :
+### 180 GAMES :
 v1.0
 -----------------
 -moto x3m series.
@@ -15,8 +15,8 @@ v1.0
 -slope
 -flappy games
 -google mini games
+-etc.
 
 ### CREDS:
-
 credits to parcoil network for the template.
 
