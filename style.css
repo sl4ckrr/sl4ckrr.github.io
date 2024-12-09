@@ -80,7 +80,9 @@ nav {
     justify-content: center;
     margin-top: .6vw;
     padding-bottom: 5vw;
-
+    flex-direction: row;
+    padding: 1vw;
+    margin:1%;
 }
 
 #games img {    height: 15.6vw;
