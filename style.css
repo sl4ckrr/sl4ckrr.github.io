@@ -79,8 +79,8 @@ body {
 }
 
 #games img {   
-    height: 10.6vw;
-    width: 10.6vw;
+   height: 15.6vw;
+    width: 15.6vw;
     border-radius: 1vw;
     margin: .5vw;
     cursor: pointer;
