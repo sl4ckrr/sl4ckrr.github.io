@@ -14,13 +14,6 @@ body {
     text-align: center;
 }
 
-nav {
-    top: 0;
-    left: 0;
-    height: 100px;
-    width: 100px;
-}
-
 .content {
     flex-direction: column;
     align-items: left;
@@ -39,7 +32,7 @@ nav {
     display: flex;
     user-select: none;
     margin-top: 2.5vw;
-    margin-left: 45vw;
+    margin-left: 40vw;
 }
 
 .search input {
@@ -85,8 +78,9 @@ nav {
     margin:1%;
 }
 
-#games img {    height: 13.6vw;
-    width: 15.6vw;
+#games img {   
+    height: 10.6vw;
+    width: 10.6vw;
     border-radius: 1vw;
     margin: .5vw;
     cursor: pointer;
