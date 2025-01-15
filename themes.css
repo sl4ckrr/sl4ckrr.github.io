@@ -5,12 +5,23 @@ body {
     --textcolor: #000;
     --bg: #000000;
 }
+/*
 body[theme=custom] {
     --inputbg: #3c096c;
     --inputborder: #5a189a;
     --uibg: #240046;
     --textcolor: #fff;
     --bg: #10002b;
+}
+*/
+body[theme=custom] {
+    --inputbg: #3c096c;
+    --inputborder: #5a189a;
+    --uibg: #240046;
+    --textcolor: #fff;
+    --bg: url("themebgs/shapes.jpg"), rgb(59, 67, 78);
+    /* https://wallhaven.cc/w/jxl3qp */
+    --shadow: 0px 0px 2px #a5dcf5;
 }
 body[theme=main] {
     --inputbg: #3c096c;
