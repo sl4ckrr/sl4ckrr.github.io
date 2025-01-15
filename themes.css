@@ -6,11 +6,11 @@ body {
     --bg: #000000;
 }
 body[theme=custom] {
-    --inputbg: #3c096c;
-    --inputborder: #5a189a;
-    --uibg: #240046;
+    --inputbg: #f5ecfd;
+    --inputborder: #8122dc;
+    --uibg: #0a0013;
     --textcolor: #fff;
-    --bg: #10002b;
+    --bg: #070012;
 }
 body[theme=main] {
     --inputbg: #3c096c;
