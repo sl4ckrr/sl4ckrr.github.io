@@ -8,6 +8,8 @@ $.getJSON("/quotes.json", function (data) {
 	}
 	if (document.readyState === "complete") {
 		document.getElementById("randomquote").innerHTML = index;
+	} else  (document.readyState === "incomplete") {
+		document.getElementById("randomquote").innerHTML = index;
 	} else {
 		document.addEventListener("DOMContentLoaded", () => {
 			document.getElementById("randomquote").innerHTML = index;
