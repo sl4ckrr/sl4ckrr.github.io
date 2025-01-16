@@ -207,6 +207,7 @@ if (location.hash) {
 			} else {
 				localStorage.setItem("selenite.passwordAtt", `[false,${Math.floor(Date.now() / 1000)}]`);
 				location.href = "https://google.com";
+
 			}
 		}
 	}
