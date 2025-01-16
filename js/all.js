@@ -65,11 +65,7 @@ document.addEventListener("keydown", (e) => {
 	if (listofchars.includes("safemode")) {
 		window.location.href = panicurl;
 		listofchars = "";
-		
-		if (listofchars.includes("bankai")) {
-		window.location.href = panicurl;
-		listofchars = "";
-	} else if (listofchars.includes("269252")) {
+	} else if (listofchars.includes("debugplz")) {
 		if (getCookie("debugging") == 1) {
 			document.cookie = "debugging=0;";
 			alert("debugging off!");
