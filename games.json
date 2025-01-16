@@ -1,7 +1,7 @@
 [
   {
     "name": "Windows XP",
-    "image": "cover.svg",
+    "image": "windows-xp.png",
     "directory": "xp",
     "recommended": "1"
   },
