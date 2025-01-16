@@ -1,123 +1,28 @@
 [
-
-      {
-    "name": "Deal or No Deal",
-    "image": "cover.png",
-    "directory": "deal",
-    "recommended": "1"
-  },
-{
-    "name": "Soccer Skills",
-    "image": "cover.svg",
-    "directory": "skills",
-    "recommended": "1"
-  },      
-      {
-    "name": "Slope 3",
-    "image": "cover.png",
-    "directory": "slope3",
-    "recommended": "1"
-  },
-      {
-    "name": "Snowball Fighter",
-    "image": "cover.svg",
-    "directory": "snow",
-    "recommended": "1"
-  },
-      {
-    "name": "Spacebar Clicker",
-    "image": "cover.svg",
-    "directory": "space",
-    "recommended": "1"
-  },
-      {
-    "name": "π Client",
-    "image": "cover.svg",
-    "directory": "pi",
-    "recommended": "1"
-  },
-     {
-    "name": "Precision Client",
-    "image": "cover.svg",
-    "directory": "pre",
-    "recommended": "1"
-  },
-    {
-    "name": "Shadow Client",
-    "image": "cover.svg",
-    "directory": "shadow",
-    "recommended": "1"
-  },
   {
     "name": "Windows XP",
     "image": "cover.svg",
     "directory": "xp",
     "recommended": "1"
   },
-             {
-    "name": "Dragon Client",
-    "image": "cover.svg",
-    "directory": "drag",
-    "recommended": "1"
-  },
-            {
-    "name": "Ayuncraft 1.5.2",
-    "image": "cover.svg",
-    "directory": "ayun",
-    "recommended": "1"
-  },
-      {
-    "name": "Minecraft Infdev",
-    "image": "cover.svg",
-    "directory": "inf",
-    "recommended": "1"
-  },
+
       {
     "name": "Minesweeper",
     "image": "cover.svg",
     "directory": "minesweeper",
     "recommended": "1"
   },
-      {
-    "name": "POOM",
-    "image": "cover.svg",
-    "directory": "poom",
-    "recommended": "1"
-  },
+
       {
     "name": "Solitaire",
     "image": "cover.svg",
     "directory": "solitaire",
     "recommended": "1"
   },
-      {
-    "name": "Spank the Monkey",
-    "image": "cover.svg",
-    "directory": "spankthemonkey",
-    "recommended": "1"
-  },
-      {
-    "name": "CMM Client",
-    "image": "cover.png",
-    "directory": "cmm-client",
-    "recommended": "1"
-  },
-     {
-    "name": "Pool",
-    "image": "cover.svg",
-    "directory": "pool",
-    "recommended": "1"
-  }, 
     {
     "name": "Yohoho.io",
     "image": "cover.svg",
     "directory": "yohoho",
-    "recommended": "1"
-  },
-    {
-    "name": "Tube Jumpers",
-    "image": "cover.svg",
-    "directory": "tube-jumpers",
     "recommended": "1"
   },
     {
@@ -133,18 +38,6 @@
     "recommended": "1"
   },
   {
-    "name": "Awesome Tanks",
-    "image": "cover.svg",
-    "directory": "awesometanks",
-    "recommended": "1"
-  },
-  {
-    "name": "Bubble Shooter",
-    "image": "cover.svg",
-    "directory": "bubbleshooter",
-    "recommended": "1"
-  },
-  {
     "name": "Pong",
     "directory": "pong",
     "image": "cover.svg",
@@ -157,42 +50,14 @@
     "recommended": "1"
   },
   {
-    "name": "A Dance of Fire & Ice",
-    "directory": "adofai",
-    "image": "icon.png",
-    "recommended": "1"
-  },
-  {
-    "name": "Resent Client",
-    "directory": "online-mc",
-    "image": "logo.png"
-  },
-  {
-    "name": "Eaglercraft 1.5.2",
-    "directory": "offline-mc",
-    "image": "logo.png",
-    "recommended": "1"
-  },
-  {
     "name": "Friday Night Funkin",
     "directory": "fridaynightfunkin",
     "image": "fnf-icon.jpg",
     "recommended": "1"
   },
   {
-    "name": "Worlds Hardest Game",
-    "directory": "worldshardestgame",
-    "image": "icon.png"
-  },
-  {
     "name": "GBA Emulator",
     "directory": "gba",
-    "image": "icon.png",
-    "recommended": "1"
-  },
-  {
-    "name": "Celeste",
-    "directory": "celeste",
     "image": "icon.png",
     "recommended": "1"
   },
@@ -202,33 +67,8 @@
     "image": "icon.png"
   },
   {
-    "name": "60s Burger Run",
-    "directory": "60sburgerrun",
-    "image": "icon.png"
-  },
-  {
-    "name": "Cluster Rush",
-    "directory": "cluster-rush",
-    "image": "icon.jpg"
-  },
-  {
-    "name": "Vex 3",
-    "directory": "vex3",
-    "image": "icon.png"
-  },
-  {
-    "name": "Adventure Capitalist",
-    "directory": "adventure-capitalist",
-    "image": "logo.webp"
-  },
-  {
     "name": "Bloons Tower Defense 3",
     "directory": "btd3",
-    "image": "icon.png"
-  },
-  {
-    "name": "Avalanche",
-    "directory": "avalanche",
     "image": "icon.png"
   },
   {
@@ -237,39 +77,14 @@
     "image": "slope4.jpeg"
   },
   {
-    "name": "Cell Machine",
-    "directory": "cell-machine",
-    "image": "img/icon.png"
-  },
-  {
     "name": "Run 2",
     "directory": "run2",
     "image": "icon.jpg"
   },
   {
-    "name": "Vex 5",
-    "directory": "vex5",
-    "image": "icon.png"
-  },
-  {
-    "name": "Vex 4",
-    "directory": "vex4",
-    "image": "vex4.png"
-  },
-  {
-    "name": "Vex 2",
-    "directory": "vex2",
-    "image": "icon.png"
-  },
-  {
     "name": "Crossy Road",
     "directory": "crossyroad",
     "image": "chicken.png"
-  },
-  {
-    "name": "Wall Smash",
-    "directory": "wallsmash",
-    "image": "icon.png"
   },
   {
     "name": "Death Run 3D",
@@ -282,49 +97,14 @@
     "image": "icon.png"
   },
   {
-    "name": "CircloO",
-    "directory": "circloo",
-    "image": "icon.png"
-  },
-  {
-    "name": "Vex",
-    "directory": "vex",
-    "image": "icon.png"
-  },
-  {
-    "name": "Stack",
-    "directory": "stack",
-    "image": "icon.png"
-  },
-  {
-    "name": "xx142-b2.exe",
-    "directory": "xx142-b2.exe",
-    "image": "icon.png"
-  },
-  {
     "name": "paper.io",
     "directory": "paperio",
-    "image": "icon.png"
-  },
-  {
-    "name": "Chibi Knight",
-    "directory": "chibiknight",
     "image": "icon.png"
   },
   {
     "name": "1v1.lol",
     "directory": "1v1lol",
     "image": "splash.png"
-  },
-  {
-    "name": "Dino",
-    "directory": "dino",
-    "image": "icon.png"
-  },
-  {
-    "name": "Turbowarp",
-    "directory": "turbowarp",
-    "image": "icon.png"
   },
   {
     "name": "Tetris",
@@ -339,11 +119,6 @@
   {
     "name": "Sand Game",
     "directory": "sand",
-    "image": "icon.png"
-  },
-  {
-    "name": "Dante",
-    "directory": "dante",
     "image": "icon.png"
   },
   {
@@ -362,48 +137,13 @@
     "image": "icon.png"
   },
   {
-    "name": "Doodle Jump",
-    "directory": "doodlejump",
-    "image": "icon.png"
-  },
-  {
-    "name": "Weave Silk",
-    "directory": "weavesilk",
-    "image": "icon.png"
-  },
-  {
     "name": "Super Meat Boy",
     "directory": "supermeatboy",
     "image": "icon.png"
   },
   {
-    "name": "Vex 6",
-    "directory": "vex6",
-    "image": "icon.png"
-  },
-  {
-    "name": "WebGL Fluid Sim",
-    "directory": "fluidsim",
-    "image": "icon.png"
-  },
-  {
     "name": "Basketball Stars",
     "directory": "basketball-stars",
-    "image": "icon.png"
-  },
-  {
-    "name": "osu!",
-    "directory": "osu",
-    "image": "icon.png"
-  },
-  {
-    "name": "Cookie Clicker",
-    "directory": "cookieclicker",
-    "image": "img/perfectCookie.png"
-  },
-  {
-    "name": "Superhot",
-    "directory": "superhot",
     "image": "icon.png"
   },
   {
@@ -418,16 +158,6 @@
     "image": "icon.png"
   },
   {
-    "name": "I Wanna Be Thy Copy",
-    "directory": "iwbtc",
-    "image": "icon.png"
-  },
-  {
-    "name": "HexGL",
-    "directory": "hexgl",
-    "image": "icon_128.png"
-  },
-  {
     "name": "Champion Island",
     "directory": "championisland",
     "image": "icon.png"
@@ -435,11 +165,6 @@
   {
     "name": "Learn to Fly",
     "directory": "learntofly",
-    "image": "icon.png"
-  },
-  {
-    "name": "Wordle Bot",
-    "directory": "wordlebot",
     "image": "icon.png"
   },
   {
@@ -458,11 +183,6 @@
     "image": "icon.png"
   },
   {
-    "name": "Lows Adventures 2",
-    "directory": "lowsadventures2",
-    "image": "icon.png"
-  },
-  {
     "name": "Drift Boss",
     "directory": "drift-boss",
     "image": "icon.png"
@@ -476,36 +196,6 @@
     "name": "Gun Mayhem",
     "directory": "gunmayhem",
     "image": "icon.png"
-  },
-  {
-    "name": "Duck Life 4",
-    "directory": "ducklife4",
-    "image": "icon.png"
-  },
-  {
-    "name": "Achievement Unlocked",
-    "directory": "achieveunlocked",
-    "image": "icon.png"
-  },
-  {
-    "name": "Achievement Unlocked 2",
-    "directory": "achieveunlocked2",
-    "image": "icon.png"
-  },
-  {
-    "name": "This Is The Only Level",
-    "directory": "thisistheonlylevel",
-    "image": "logo.png"
-  },
-  {
-    "name": "This Is The Only Level 2",
-    "directory": "thisistheonlylevel2",
-    "image": "icon.png"
-  },
-  {
-    "name": "Bitlife",
-    "directory": "bitlife",
-    "image": "bitlife.png"
   },
   {
     "name": "Duck Life 1",
@@ -528,17 +218,6 @@
     "image": "ovo3.png"
   },
   {
-    "name": "There Is No Game",
-    "directory": "thereisnogame",
-    "image": "icon-256.png"
-  },
-  {
-    "name": "Universal Paperclips",
-    "directory": "universal-paperclips",
-    "image": "universal-paperclips.png",
-    "recommended": "1"
-  },
-  {
     "name": "Windows 11",
     "directory": "win11",
     "image": "favicon.png",
@@ -548,16 +227,6 @@
     "name": "Learn to Fly 2",
     "directory": "learntofly2",
     "image": "logo.jpg"
-  },
-  {
-    "name": "Worlds Hardest Game 2",
-    "directory": "worldhardestgame2",
-    "image": "the-worlds-hardest-game-2.jpg"
-  },
-  {
-    "name": "Vex 7",
-    "directory": "vex7",
-    "image": "icon.jpeg"
   },
   {
     "name": "Slope Ball",
@@ -590,11 +259,6 @@
     "image": "redball4vol2.webp"
   },
   {
-    "name": "Red Ball 3",
-    "directory": "redball3",
-    "image": "redball3.png"
-  },
-  {
     "name": "Snake",
     "directory": "snake",
     "image": "snake.png"
@@ -603,27 +267,6 @@
     "name": "Pacman",
     "directory": "pacman",
     "image": "icon.png"
-  },
-  {
-    "name": "Color Switch",
-    "directory": "colorswitch",
-    "image": "colorswitch.png"
-  },
-  {
-    "name": "Halloween 2016",
-    "directory": "halloween2016",
-    "image": "logo.png"
-  },
-  {
-    "name": "Game Maker Doodle",
-    "directory": "gamemaker",
-    "image": "images.jpeg",
-    "recommended": "1"
-  },
-  {
-    "name": "The Impossible Game",
-    "directory": "theimpossiblegame",
-    "image": "image.jpg"
   },
   {
     "name": "Papas Freezeria",
@@ -708,11 +351,6 @@
     "image": "gameIcon.png"
   },
   {
-    "name": "Clicker Heroes",
-    "directory": "clickerheroes",
-    "image": "clicker-heroes.png"
-  },
-  {
     "name": "Jetpack Joyride",
     "directory": "jetpackjoyride",
     "image": "logo.jpeg"
@@ -721,21 +359,6 @@
     "name": "Fruit Ninja",
     "directory": "fruitninja",
     "image": "FruitNinjaTeaser.jpg"
-  },
-  {
-    "name": "Tron",
-    "directory": "tron",
-    "image": "icon.png"
-  },
-  {
-    "name": "Thirty Dollar Website",
-    "directory": "thirtydollarwebsite",
-    "image": "assets/🗿.png"
-  },
-  {
-    "name": "n-gon",
-    "directory": "ngon",
-    "image": "favicon.ico"
   },
   {
     "name": "Subway Surfers",
@@ -948,11 +571,6 @@
     "image": "wogo owo.jpg"
   },
   {
-    "name": "1 on 1 Soccer",
-    "directory": "1on1soccer",
-    "image": "logo.jpg"
-  },
-  {
     "name": "Among Us",
     "directory": "amongus",
     "image": "amgojs]_.png"
@@ -973,11 +591,6 @@
     "image": "blood-tournament.jpg"
   },
   {
-    "name": "Gold Digger FRVR",
-    "directory": "golddiggerfrvr",
-    "image": "images.jpeg"
-  },
-  {
     "name": "Retro Bowl College",
     "directory": "retrobowlcollege",
     "image": "unnamed.png"
@@ -986,11 +599,6 @@
     "name": "We Become What We Behold",
     "directory": "wbwwb",
     "image": "wbwwb.webp"
-  },
-  {
-    "name": "Nut Simulator",
-    "directory": "nutsim",
-    "image": "images/icon.png"
   },
   {
     "name": "Pokemon",
@@ -1043,7 +651,7 @@
     "image": "894abba63a6b23fed823f404831f444f.jpeg"
   },
   {
-    "name": "Bad Time Simulator",
+    "name": "Undertale | sans battle v.1.3",
     "directory": "badtimesimulator",
     "image": "icon-114.png"
   },
@@ -1288,12 +896,7 @@
     "image": "bleep.png"
   },
   {
-    "name": "The Impossible Quiz",
-    "directory": "theimpossiblequiz",
-    "image": "tiq.avif"
-  },
-  {
-    "name": "2D Rocket League",
+    "name": "2d rocket league (milton League)",
     "directory": "2drocketleague",
     "image": "unnamed.png"
   },
@@ -1313,29 +916,9 @@
     "image": "unnamed.png"
   },
   {
-    "name": "CSGO Case Clicker",
-    "directory": "csgoclicker",
-    "image": "images/case1.png"
-  },
-  {
-    "name": "The Final Earth 2",
-    "directory": "thefinalearth2",
-    "image": "icons/favicon.png"
-  },
-  {
     "name": "Baldi's Basics",
     "directory": "baldis-basics",
     "image": "splash.png"
-  },
-  {
-    "name": "Cubefield",
-    "directory": "cubefield",
-    "image": "assets/unnamed.png"
-  },
-  {
-    "name": "Minecraft Classic",
-    "directory": "mcclassic",
-    "image": "assets/textures/previews/2.png"
   },
   {
     "name": "Bit Planes",
@@ -1346,25 +929,5 @@
     "name": "Snow Rider 3D",
     "directory": "snowrider3d",
     "image": "snow.png"
-  },
-  {
-    "name": "Dadish",
-    "directory": "dadish",
-    "image": "favicon.png"
-  },
-  {
-    "name": "Dadish 2",
-    "directory": "dadish2",
-    "image": "favicon.png"
-  },
-  {
-    "name": "Dadish 3",
-    "directory": "dadish3",
-    "image": "splash.png"
-  },
-  {
-    "name": "Watermelon Game",
-    "directory": "watermelongame",
-    "image": "assets/sprites/tittle.png"
   }
 ]
