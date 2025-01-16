@@ -12,11 +12,16 @@
     "directory": "minesweeper",
     "recommended": "1"
   },
-
-      {
+    {
     "name": "Solitaire",
     "image": "cover.svg",
     "directory": "solitaire",
+    "recommended": "1"
+  },
+      {
+    "name": "pokemon",
+    "image": "cover.jpg",
+    "directory": "Pokemon",
     "recommended": "1"
   },
     {
