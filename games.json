@@ -36,12 +36,6 @@
     "directory": "solitaire",
     "recommended": "1"
   },
-      {
-    "name": "pokemon",
-    "image": "cover.jpg",
-    "directory": "Pokemon",
-    "recommended": "1"
-  },
     {
     "name": "Yohoho.io",
     "image": "cover.svg",
@@ -78,20 +72,10 @@
     "image": "fnf-icon.jpg",
     "recommended": "1"
   },
-  {
-    "name": "GBA Emulator",
-    "directory": "gba",
-    "image": "icon.png",
-    "recommended": "1"
-  },
+
   {
     "name": "Mario",
     "directory": "mario",
-    "image": "icon.png"
-  },
-  {
-    "name": "Bloons Tower Defense 3",
-    "directory": "btd3",
     "image": "icon.png"
   },
   {
@@ -110,38 +94,13 @@
     "image": "chicken.png"
   },
   {
-    "name": "Death Run 3D",
-    "directory": "death-run-3d",
-    "image": "img/death.png"
-  },
-  {
-    "name": "Gun Mayhem 2",
-    "directory": "gunmayhem2",
-    "image": "icon.png"
-  },
-  {
-    "name": "paper.io",
-    "directory": "paperio",
-    "image": "icon.png"
-  },
-  {
     "name": "1v1.lol",
     "directory": "1v1lol",
     "image": "splash.png"
   },
   {
-    "name": "Tetris",
-    "directory": "tetris",
-    "image": "icon.png"
-  },
-  {
     "name": "Geometry Dash",
     "directory": "geometrydash",
-    "image": "icon.png"
-  },
-  {
-    "name": "Sand Game",
-    "directory": "sand",
     "image": "icon.png"
   },
   {
