@@ -8,25 +8,25 @@
 
       {
     "name": "Pokemon | FireRed",
-    "image": "Pokemon/firered.jpg",
+    "image": "firered.jpg",
     "directory": "Pokemon/firered",
     "recommended": "1"
   },
         {
     "name": "Pokemon | LeafGreen",
-    "image": "Pokemon/leafgreen.jpg",
+    "image": "leafgreen.jpg",
     "directory": "Pokemon/leafgreen",
     "recommended": "1"
   },
         {
     "name": "Pokemon | Ruby",
-    "image": "Pokemon/ruby.jpg",
+    "image": "ruby.jpg",
     "directory": "Pokemon/ruby",
     "recommended": "1"
   },
         {
     "name": "Pokemon | Sapphire",
-    "image": "Pokemon/sapphire.jpg",
+    "image": "sapphire.jpg",
     "directory": "Pokemon/sapphire",
     "recommended": "1"
   },
