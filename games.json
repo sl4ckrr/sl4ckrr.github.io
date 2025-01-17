@@ -72,7 +72,11 @@
     "image": "fnf-icon.jpg",
     "recommended": "1"
   },
-
+  {
+    "name": "Pokemon",
+    "directory": "Pokemon",
+    "image": "firered.jpg"
+  },
   {
     "name": "Mario",
     "directory": "mario",
@@ -583,11 +587,6 @@
     "image": "wbwwb.webp"
   },
   {
-    "name": "Pokemon",
-    "directory": "pokemon",
-    "image": "logo.jpg"
-  },
-  {
     "name": "Super Smash Bros",
     "directory": "supersmashbros",
     "image": "logo.jpg"
@@ -773,21 +772,6 @@
     "image": "logo.png"
   },
   {
-    "name": "Tiny Fishing",
-    "directory": "tinyfishing",
-    "image": "thumb.png"
-  },
-  {
-    "name": "TU-95",
-    "directory": "tu95",
-    "image": "tu-95.webp"
-  },
-  {
-    "name": "TU-46",
-    "directory": "tu46",
-    "image": "tu-46.webp"
-  },
-  {
     "name": "Russian Car Driver",
     "directory": "russiancardriver",
     "image": "russian-car-driver.webp"
@@ -887,26 +871,13 @@
     "directory": "pizzatower",
     "image": "images/menubg.png"
   },
-  {
-    "name": "Monster Tracks",
-    "directory": "monstertracks",
-    "image": "webapp/cover.jpg"
-  },
-  {
-    "name": "Totally Accurate Battle Simulator",
-    "directory": "tabs",
-    "image": "unnamed.png"
-  },
+
   {
     "name": "Baldi's Basics",
     "directory": "baldis-basics",
     "image": "splash.png"
   },
-  {
-    "name": "Bit Planes",
-    "directory": "bit-planes",
-    "image": "bitplanes.png"
-  },
+
   {
     "name": "Snow Rider 3D",
     "directory": "snowrider3d",
