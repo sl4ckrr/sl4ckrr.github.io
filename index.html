@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html class="sl-theme-dark" lang="en">
   <head>
@@ -23,8 +24,8 @@
     
     <script src='https://cdn.jsdelivr.net/npm/@widgetbot/crate@3' async defer>
       new Crate({
-          server: '1273329263923302430', // Selenite
-          channel: '1329289920845713471' // #commands
+          server: '1148719137238040606', // Selenite
+          channel: '1173731814196645909' // #commands
       })
     </script>
     <link rel="stylesheet" href="/style.css" />
@@ -95,19 +96,17 @@
       <input type="text" id="gamesearch" placeholder="Type here to search.." />
       <div class="samerow">
         <sl-tooltip content="Remember to download your save, so you don't lose your progress." trigger="manual" class="manual-tooltip">
-                  <div class="just-buttons">
-          <button onclick="downloadMainSave()"><img src="img/download.jpg"></button>
-                  </div>
+          <button onclick="downloadMainSave()">Download Save</button>
         </sl-tooltip>
-                <div class="just-buttons">
-        <button id="upload" onclick="uploadMainSave()"><img src="img/upload.jpg"></button>
-                </div>
+        <button id="upload" onclick="uploadMainSave()">Upload Save</button>
       </div>
       <div class="samerow">
-        <div class="just-buttons">
-        <button id="random" onclick="selectRandomGame()"><img src="img/random.jpg"></button>
-        <button id="recommend" onclick="recommendedGames()"><img src="img/recommend.jpg"></button>
-        </div>
+        <button id="random" onclick="selectRandomGame()">
+          Play a random game!
+        </button>
+        <button id="recommend" onclick="recommendedGames()">
+          Click to view recommended games!
+        </button>
       </div>
 
       <h2>Pinned Games</h2>
@@ -117,6 +116,7 @@
 
       <h2>All Games</h2>
       <div id="games">
+        <a href="/suggest.html"><div class="suggest"><img src="img/addlink.svg" alt="Add Game logo" style="filter: invert(1);"><h1>Suggest a game!</h1></div></a>
         <p id="message">games loading..</p>
       </div>
       <div id="adcontainer">
@@ -129,9 +129,10 @@
     <footer>
     -->
       <a href="https://github.com/selenite-cc/Selenite">Source Code</a>
+      <a id="panicmode">Panic Mode</a>
       <a href="/transfer.html">Transfer your data</a>
       <a href="/suggest.html">Bug Reports</a>
-      <a href="https://discord.gg/NagaYgf98N">Discord</a>
+      <a href="https://discord.gg/7jyufnwJNf">Discord</a>
       <a href="/suggest.html">Suggestions</a>
       <a href="/contact.html">Contact</a>
     <!--
