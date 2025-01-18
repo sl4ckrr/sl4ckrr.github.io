@@ -1,38 +1,34 @@
 [
-  {
+
+      {
     "name": "Windows XP",
     "image": "windows-xp.png",
     "directory": "xp",
     "recommended": "1"
   },
-
-      {
+  {
     "name": "Pokemon | FireRed",
-    "image": "firered.jpg",
     "directory": "Pokemon/firered",
-    "recommended": "1"
+    "image": "firered.jpg",
   },
-        {
+  {
     "name": "Pokemon | LeafGreen",
-    "image": "leafgreen.jpg",
     "directory": "Pokemon/leafgreen",
-    "recommended": "1"
+    "image": "leafgreen.jpg",
   },
-        {
+  {
     "name": "Pokemon | Ruby",
-    "image": "ruby.jpg",
     "directory": "Pokemon/ruby",
-    "recommended": "1"
+    "image": "ruby.jpg",
   },
-        {
+  {
     "name": "Pokemon | Sapphire",
-    "image": "sapphire.jpg",
     "directory": "Pokemon/sapphire",
-    "recommended": "1"
-  },
-        {
-    "name": "Pokemon | Sapphire",
-    "directory": "snowrider3d",
     "image": "sapphire.jpg",
+  },
+  {
+    "name": "snowrider3s",
+    "directory": "snowrider3d",
+    "image": "snow.jpg"
   }
 ]
