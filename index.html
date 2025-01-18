@@ -95,17 +95,13 @@
       <input type="text" id="gamesearch" placeholder="Type here to search.." />
       <div class="samerow">
         <sl-tooltip content="Remember to download your save, so you don't lose your progress." trigger="manual" class="manual-tooltip">
-          <button onclick="downloadMainSave()">Download Save</button>
+          <button onclick="downloadMainSave()"><img src="img/download.jpg"></button>
         </sl-tooltip>
-        <button id="upload" onclick="uploadMainSave()">Upload Save</button>
+        <button id="upload" onclick="uploadMainSave()"><img src="img/upload.jpg"></button>
       </div>
       <div class="samerow">
-        <button id="random" onclick="selectRandomGame()">
-          Play a random game!
-        </button>
-        <button id="recommend" onclick="recommendedGames()">
-          Click to view recommended games!
-        </button>
+        <button id="random" onclick="selectRandomGame()"><img src="img/random.jpg"></button>
+        <button id="recommend" onclick="recommendedGames()"><img src="img/recommend.jpg"></button>
       </div>
 
       <h2>Pinned Games</h2>
