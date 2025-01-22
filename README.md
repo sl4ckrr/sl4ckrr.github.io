@@ -11,4 +11,4 @@ The better unblocked games website.
 ## Contributors
 [![Contrib](https://contrib.rocks/image?repo=selenite-cc/selenite#)](https://github.com/selenite-cc/selenite/graphs/contributors)
 ## Support
-Join our [discord server](https://discord.gg/WDZhkdFyF4) to contact our support team free of charge for any reason 24/7.
+Join R4e's [discord server](https://discord.gg/WDZhkdFyF4) idk for comunity, read rules and use common sense..
