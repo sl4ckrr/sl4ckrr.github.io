@@ -125,11 +125,6 @@
     "image": "icon.png"
   },
   {
-    "name": "60s Burger Run",
-    "directory": "60sburgerrun",
-    "image": "icon.png"
-  },
-  {
     "name": "Cluster Rush",
     "directory": "cluster-rush",
     "image": "icon.jpg"
@@ -1289,5 +1284,15 @@
     "name": "Watermelon Game",
     "directory": "watermelongame",
     "image": "assets/sprites/tittle.png"
+  }
+  {
+    "name": "realmz.io",
+    "directory": "realmz.io",
+    "image": "realmz.png"
+  }
+  {
+    "name": "TSOS | The Site Of Sites",
+    "directory": "TSOS",
+    "image": "tsos.png"
   }
 ]
