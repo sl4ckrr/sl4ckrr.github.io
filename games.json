@@ -1284,12 +1284,12 @@
     "name": "Watermelon Game",
     "directory": "watermelongame",
     "image": "assets/sprites/tittle.png"
-  }
+  },
   {
     "name": "realmz.io",
     "directory": "realmz.io",
     "image": "realmz.png"
-  }
+  },
   {
     "name": "TSOS | The Site Of Sites",
     "directory": "TSOS",
