@@ -1,15 +1,9 @@
 [
 
       {
-    "name": "Deal or No Deal",
-    "image": "cover.svg",
-    "directory": "deal",
-    "recommended": "1"
-  },
-{
-    "name": "Soccer Skills",
-    "image": "cover.svg",
-    "directory": "skills",
+    "name": "Pokemon | Ruby",
+    "image": "",
+    "directory": "pokemon/ruby",
     "recommended": "1"
   },      
       {
@@ -25,51 +19,15 @@
     "recommended": "1"
   },
       {
-    "name": "Spacebar Clicker",
-    "image": "cover.svg",
-    "directory": "space",
-    "recommended": "1"
-  },
-      {
     "name": "π Client",
     "image": "cover.svg",
     "directory": "pi",
-    "recommended": "1"
-  },
-     {
-    "name": "Precision Client",
-    "image": "cover.svg",
-    "directory": "pre",
-    "recommended": "1"
-  },
-    {
-    "name": "Shadow Client",
-    "image": "cover.svg",
-    "directory": "shadow",
     "recommended": "1"
   },
   {
     "name": "Windows XP",
     "image": "cover.svg",
     "directory": "xp",
-    "recommended": "1"
-  },
-             {
-    "name": "Dragon Client",
-    "image": "cover.svg",
-    "directory": "drag",
-    "recommended": "1"
-  },
-            {
-    "name": "Ayuncraft 1.5.2",
-    "image": "cover.svg",
-    "directory": "ayun",
-    "recommended": "1"
-  },
-      {
-    "name": "Minecraft Infdev",
-    "image": "cover.svg",
-    "directory": "inf",
     "recommended": "1"
   },
       {
@@ -96,12 +54,6 @@
     "directory": "spankthemonkey",
     "recommended": "1"
   },
-      {
-    "name": "CMM Client",
-    "image": "cover.svg",
-    "directory": "cmm-client",
-    "recommended": "1"
-  },
      {
     "name": "Pool",
     "image": "cover.svg",
@@ -112,12 +64,6 @@
     "name": "Yohoho.io",
     "image": "cover.svg",
     "directory": "yohoho",
-    "recommended": "1"
-  },
-    {
-    "name": "Tube Jumpers",
-    "image": "cover.svg",
-    "directory": "tube-jumpers",
     "recommended": "1"
   },
     {
@@ -160,17 +106,6 @@
     "name": "A Dance of Fire & Ice",
     "directory": "adofai",
     "image": "icon.png",
-    "recommended": "1"
-  },
-  {
-    "name": "Resent Client",
-    "directory": "online-mc",
-    "image": "logo.png"
-  },
-  {
-    "name": "Eaglercraft 1.5.2",
-    "directory": "offline-mc",
-    "image": "logo.png",
     "recommended": "1"
   },
   {
