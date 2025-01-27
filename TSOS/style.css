@@ -6,12 +6,8 @@ body {
   color: white;
   display: flex;
   justify-content: center;
-  align-items: center;   background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    margin-top: 300px;
-    margin-bottom: 200px;
+    margin-top: 150px;
+    margin-bottom: 250px;
 
 }
 img {
@@ -19,7 +15,7 @@ img {
   margin-left: auto;
   margin-right: auto;
   width: 60%;
-  hight:40%;
+  height:40%;
 }
 a{
   display: flex;
