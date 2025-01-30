@@ -62,16 +62,16 @@ document.addEventListener("keydown", (e) => {
 	if (listofchars.length > 20) {
 		listofchars = listofchars.substring(e.key.length);
 	}
-	if (listofchars.includes("safe")) {
+	if (listofchars.includes("!")) {
 		window.location.href = panicurl;
 		listofchars = "";
-	} else if (listofchars.includes("debugplz")) {
+	} else if (listofchars.includes("bankai")) {
 		if (getCookie("debugging") == 1) {
 			document.cookie = "debugging=0;";
 			alert("debugging off!");
 		} else {
 			document.cookie = "debugging=1";
-			alert("debugging on!");
+			alert("bakai!");
 		}
 		listofchars = "";
 	}
