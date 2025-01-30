@@ -62,7 +62,7 @@ document.addEventListener("keydown", (e) => {
 	if (listofchars.length > 20) {
 		listofchars = listofchars.substring(e.key.length);
 	}
-	if (listofchars.includes("safemode")) {
+	if (listofchars.includes("safe")) {
 		window.location.href = panicurl;
 		listofchars = "";
 	} else if (listofchars.includes("debugplz")) {
