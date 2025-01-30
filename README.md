@@ -3,7 +3,7 @@
 
 
 # visit the site of sites
-<img src="tsos.png" alt="img here" class="img-fluid" width="40%" height="40%" id="logo">
+<img src="tsos.jpeg" alt="img here" class="img-fluid" width="40%" height="40%" id="logo">
 
 https://sl4ckrr.github.io./TSOS
 
