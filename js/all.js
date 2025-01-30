@@ -79,7 +79,7 @@ document.addEventListener("keydown", (e) => {
 function panicMode() {
 	panicurl = getCookie("panicurl");
 	if (panicurl == "") {
-		panicurl = "https://sl4ckrr.github.io./bankai";
+		panicurl = "https://google.com";
 	}
 }
 const head = document.getElementsByTagName("head")[0];
@@ -207,3 +207,4 @@ if (location.hash) {
 		}
 	}
 }
+	
