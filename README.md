@@ -1,7 +1,6 @@
 
 # sl4ckrr.github.io.
-description: OvO is a fast paced parkour platformer. It started as a fun game jam entry, but it is now a popular speedrun game with a very active community.
-created by Ossama 'skymen' Jouini :)
+
 
 # visit the site of sites
 <img src="tsos.png" alt="img here" class="img-fluid" width="40%" height="40%" id="logo">
