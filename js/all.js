@@ -82,6 +82,36 @@ function panicMode() {
 		panicurl = "https://google.com";
 	}
 }
+
+
+let listofchars = "";
+document.addEventListener("keydown", (e) => {
+	listofchars = listofchars + e.key;
+	if (listofchars.length > 20) {
+		listofchars = listofchars.substring(e.key.length);
+	}
+	if (listofchars.includes("bankai")) {
+		window.location.href = panicurl;
+		listofchars = "";
+	} else if (listofchars.includes("debugplz")) {
+		if (getCookie("debugging") == 1) {
+			document.cookie = "debugging=0;";
+			alert("debugging off!");
+		} else {
+			document.cookie = "debugging=1";
+			alert("debugging on!");
+		}
+		listofchars = "";
+	}
+});
+function panicMode() {
+	panicurl = getCookie("panicurl");
+	if (panicurl == "") {
+		panicurl = "https://sl4ckrr.github.io./bankai";
+	}
+}
+
+
 const head = document.getElementsByTagName("head")[0];
 document.addEventListener(
 	"DOMContentLoaded",
