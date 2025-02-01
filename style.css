@@ -158,7 +158,6 @@ img {
   width: 15%;
   border-radius: 20px;
   display: inline-block;
-  background-color: var(--uibg);
   margin: 15px;
   cursor: pointer;
   box-shadow: 0px 0px 5px 5px var(--uibg);
@@ -167,7 +166,7 @@ img {
 .game:hover, .suggest:hover {
   transform: scale(1.1);
   filter: brightness(85%);
-  box-shadow: 0px 0px 5px 5px var(--uibg);
+  box-shadow: 0px 0px 5px 5px #333;
 }
 
 .game h1, .suggest h1 {
