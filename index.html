@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<html class="sl-theme-dark" lang="en">
-  <head>
     <!--hiiiiii read!-->
 
 <!-- sum stuff i added for easier understanding:
@@ -12,13 +9,20 @@ comments like ts one = cus im dumb ash ngl bro
     <!-- initialize theme vars
     https://coolors.co/10002b-240046-3c096c-5a189a-7b2cbf-9d4edd-c77dff-e0aaff -->
 
+
+<!DOCTYPE html>
+<html class="sl-theme-dark" lang="en">
+  <head>
+    <!-- initialize theme vars
+    https://coolors.co/10002b-240046-3c096c-5a189a-7b2cbf-9d4edd-c77dff-e0aaff -->
+
     <!-- initialize externals -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.0/jquery.min.js"></script>
     <script src=" https://cdn.jsdelivr.net/npm/js-cookie@3.0.5/dist/js.cookie.min.js "></script>
-    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>
+    
      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.9.0/cdn/themes/dark.css" />
-     <script type="module" src="https://cdn.jsdelivr.netnpm/@shoelace-style/shoelace@2.9.0/cdn/shoelace-autoloader.js"></script>
-
+     <script type="module" src="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.9.0/cdn/shoelace-autoloader.js"></script>
+  
 
     <!-- initialize my stuff -->
     <script src="/js/all.js"></script>
@@ -27,87 +31,54 @@ comments like ts one = cus im dumb ash ngl bro
     <script src="/js/randomquote.js"></script>
     <link rel="stylesheet" href="/themes.css" />
     <link rel="stylesheet" href="/style.css" />
-<!-- get cookie,search bar, games js stuff-->
-    <script src="/js/games.js"></script>
-    <script src="/js/search.js"></script>
-    <script src="/js/main.js"></script>
-    <script src="/js/cookie.js"></script>
+
 
 
     <script src='https://cdn.jsdelivr.net/npm/@widgetbot/crate@3' async defer>
       new Crate({
-          server: '1273329289920845713471', // Sl4ckrr
-          channel: '1329289920845713471' // #general
+          server: '1148719137238040606', // Selenite
+          channel: '1173731814196645909' // #commands
       })
-     </script>
+    </script>
 
 
     <!-- seo + other things -->
-    <title>Game library | v1.0</title>
+    <title>Selenite</title>
     <link rel="icon" href="/favicon.ico" />
     <meta
       name="keywords"
-      content="front-end web developer, unblocked, games, sl4ckrr, sl4ckrr library, ublocked, code, coding, programmer, development, javascript, jquery, best, of, all, time, lebron, internet, website, github, site, cool, free,unblocked games"
+      content="front-end web developer, unblocked, games, google sites, unblocked games mom, ublocked, code, coding, programmer, development, javascript, jquery, bootstrap, sass, less, git, gaming, internet, website, best, site, cool, free games"
     />
 
-    <!-- toastify -->
-    <script>
-      document.addEventListener("DOMContentLoaded", function () {
-        setTimeout(() => {
-          const container = document.querySelector("alerts");
-          const safemodealert = container.querySelector(`sl-alert.safemodeinfo`);
-          const tooltip = document.querySelector('.manual-tooltip');
-          if (Math.random() < 0.33) {
-            safemodealert.toast();
-          } else if(Math.random() < 0.5) {
-            tooltip.open = !tooltip.open;
-            setTimeout(() => {
-              tooltip.open = !tooltip.open;
-            }, 5000)
-          }
-        }, 500);
-      });
-    </script>
-       <alerts>
-    <sl-dialog label="sl4ckrr library" class="dialog-width" style="--width: 60vw;display:none;">
-150+ games to play bro
+  </head>
+  <alerts>
+    <sl-dialog label="Welcome to Selenite!" class="dialog-width" style="--width: 60vw;display:none;">
+      Thank you for choosing Selenite! You will be able to play over 150 high quality games, and we have many tools to make your experience better.
       <br>
-      Transfer your data from another website with the transfer utility in the footer.
+      Wanting to transfer your data from another website? Try the transfer utility in the footer!
       <br>
-      Go support the development. Join the <a href="https://discord.gg/7jyufnwJNf">Discord | selenite (og)</a> and <a href="https://discord.gg/7jyufnwJNf">Discord | r4e/harper's server for talking to people</a>(they dumb dont ask questions abt the site) 
-      support sky (the goat leskysky) on <a href="https://patreon.com/selenitecc">Patreon NOW</a>!
-      also alil self promotion, join my disc for bug fixes, new game poles every month up to 15 games, and general ig.
+      Want to support the development of Selenite? Join the <a href="https://discord.gg/7jyufnwJNf">Discord</a> and support us on <a href="https://patreon.com/selenitecc">Patreon</a>!
       <br>
-      about page in the header for information.
+      Learn more about Selenite at the about page in the header!
       <br>
-      bookmarks in the bookmarks page.
+      Try out the Selenite Minified bookmarklet in the bookmarklets page!
       <br>
-      stay safe gang.
+      Have a great day!
       <sl-button slot="footer" variant="neutral">Close</sl-button>
     </sl-dialog>
   </alerts>
-      <alerts>
-    <sl-alert class="safemodeinfo" variant="primary" duration="6000" closable>
-      <sl-icon slot="icon" name="info-circle"></sl-icon>
-      <strong>Pro Tip:</strong><br />
-      Type "safemode" while in any game to go to Google. Go to settings to change this.
-    </sl-alert>
-  </alerts>
-  </head>
-  <body>
+  <body id="noscroll">
     <header>
       <a href="/index.html">Home</a>
-      <a href="/bookmarklets.html">Bookmarks</a>
+      <a href="/bookmarklets.html">Bookmarklets</a>
+      <a href="/projects.html">Games</a>
       <a href="/settings.html">Settings</a>
       <a href="/support.html">Support</a>
-      <a id="blank" href="#">Blank</a>
+      <a id="blank" href="#">Open Blank</a>
       <a href="/about.html">About</a>
     </header>
-
-  
-    <main>
-      
-      <h1>sl4ckrr.</h1>
+    <main id="main" class="noscroll">
+      <h1>selenite.</h1>
       <p id="randomquote">...</p>
       <div class="samerow">
         <div class="img-container">
@@ -120,27 +91,14 @@ comments like ts one = cus im dumb ash ngl bro
           <a href="https://discord.gg/7jyufnwJNf"><img src="img/discord-mark-white.png"></a>
         </div>
       </div>
-
-    </main>
-<!-- games setup -->
-
- <div id="adcontainer">
-        <h3><a href="ad.html">(disable in settings)</a></h3>
-        <script type="text/javascript">
-          atOptions = {
-            'key' : 'a4e483c304d8788fbb3f86d0fccd7dd2',
-            'format' : 'iframe',
-            'height' : 90,
-            'width' : 728,
-            'params' : {}
-          };
-          document.write('<scr' + 'ipt type="text/javascript" src="//www.topcreativeformat.com/a4e483c304d8788fbb3f86d0fccd7dd2/invoke.js"></scr' + 'ipt>');
-        </script>
+      <div id="adcontainer">
+        <h3><a href="ad.html">AD (click to read more):</a></h3>
+        <script async="async" data-cfasync="false" src="//pl22225360.toprevenuegate.com/92108816b5da54426d1639bcbfb5785c/invoke.js"></script>
+        <div id="container-92108816b5da54426d1639bcbfb5785c"></div>
       </div>
-      <input class="hiddenUpload" type="file" accept=".save" hidden />
-
-  
-    <footer>
+    </main>
+    
+    <footer class="noscroll">
       <a href="https://github.com/selenite-cc/Selenite">Source Code</a>
       <a id="panicmode">Panic Mode</a>
       <a href="/transfer.html">Transfer your data</a>
@@ -149,5 +107,6 @@ comments like ts one = cus im dumb ash ngl bro
       <a href="/suggest.html">Suggestions</a>
       <a href="/contact.html">Contact</a>
     </footer>
+    
   </body>
 </html>
