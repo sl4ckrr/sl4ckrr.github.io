@@ -13,9 +13,13 @@ body[theme=custom] {
     --bg: #333;
 }
 body[theme=main] {
-    --inputbg: #333;
-    --inputborder: #E9F7EF;
-    --uibg: #EAF2F8;
+     /*sum,purple*/
+    --inputbg: #800080;
+     /*sum,blue*/
+    --inputborder: #0000ff;
+    /*sum,red*/
+    --uibg: #ff0000;
+    /*text*/
     --textcolor: #fff;
     --bg: #333;
     /*
