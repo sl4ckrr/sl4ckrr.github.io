@@ -1,3 +1,5 @@
+// panicurl is not panicurl its Panic-URL, sorry for the confusion-.- /*
+
 let backup_icon;
 let backup_name;
 function setCloak(name, icon) {
@@ -56,6 +58,9 @@ function getCookie(cname) {
 	}
 	return "";
 }
+
+// Custom debuging feature NOT for use of normies :7 (me included) /*
+
 let listofchars = "";
 document.addEventListener("keydown", (e) => {
 	listofchars = listofchars + e.key;
@@ -76,8 +81,10 @@ document.addEventListener("keydown", (e) => {
 		listofchars = "";
 	}
 });
+// panicurl is not panicurl its Panic-URL, sorry for the confusion-.- /*
 function panicMode() {
 	panicurl = getCookie("panicurl");
+	// you can set up a  costum url to send yourself to thanks to sky:>/*
 	if (panicurl == "") {
 		panicurl = "https://google.com";
 	}
@@ -140,7 +147,9 @@ addEventListener("visibilitychange", (e) => {
 		}
 	}
 });
+
 // modified from ultraviolet to make it different
+
 let enc = {
 	encode(str) {
 		if (!str) return str;
