@@ -13,19 +13,22 @@ body[theme=custom] {
     --bg: #333;
 }
 body[theme=main] {
-     /*sum,purple*/
-    --inputbg: #800080;
-     /*sum,blue*/
+     /*inborders,purple
+    --inputbg: #800080;*/
+     --inputbg: #800080;
+     /*border,blue
+    --inputborder: #0000ff;*/
     --inputborder: #0000ff;
-    /*sum,red*/
+    /*header,footer,games,red
+    --uibg: #ff0000;*/
     --uibg: #ff0000;
     /*text*/
     --textcolor: #fff;
-    --bg: #333;
-    /*
-    --bg: url("themebgs/background.jpg"), rgb(59, 67, 78);
-     https://wallhaven.cc/w/jxl3qp */
+    --bg: #333; 
     --shadow: 0px 0px 2px #a5dcf5;
+    /*^^^you wouldnt beieve me if i told you^^^*/
+    /*--bg: url("themebgs/background.jpg"), rgb(59, 67, 78);
+     https://wallhaven.cc/w/jxl3qp */
 }
 body[theme=light] {
     --inputbg: #bbbbbb;
