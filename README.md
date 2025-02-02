@@ -1,7 +1,3 @@
-‹ifrane src-"https://discord.com/widget?
-id-845736162383364127&thene=dark" width="359" height="588" allowtransparency-"true" frameborder-"g" sandbox-"allow-popups allow-popups-to-escape-sandbox allow-sane-origin allow-scripts"›
-</iframe>
-Paste
 # sl4ckrr.github.io.
 
 
