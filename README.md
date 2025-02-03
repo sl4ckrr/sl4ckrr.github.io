@@ -1,10 +1,10 @@
 # sl4ckrr.github.io.
 very coool website check it out.
 
--150+
-- jsemulator
-- TSOS | alternnative website links
-- 
+- 150+ games
+- JsEmulator
+- TSOS | Alternnative Website Links
+- Bypass blockers
 
 # visit the site of sites
 <img src="tsos.jpeg" alt="img here" class="img-fluid" width="40%" height="40%" id="logo">
