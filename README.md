@@ -44,10 +44,7 @@ this is a fork of https://selenite.cc check out the website and its cool games!
 </a>
 
 Made with [contrib.rocks](https://contrib.rocks).
-a really easy to use contributers README.md website
-to use:
-a href="https://github.com/user/website/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=sl4ckrr/sl4ckrr.github.io" />
-a
+a really easy to use contributers README.md website!
+
 ## Support
-Join R4e's [discord server](https://discord.gg/WDZhkdFyF4) idk for comunity, read rules and use common sense..
+Join R4e's [discord server](https://discord.gg/WDZhkdFyF4) idk for community, read rules and stuff.
