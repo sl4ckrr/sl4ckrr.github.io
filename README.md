@@ -39,8 +39,10 @@ other socals here:
 ## what is this?
 this is a fork of selenite.cc and how it works is, there are unblocked games and alt site links for them 
 ## Contributors
-[![Contrib](https://contrib.rocks/image?repo=selenite-cc/selenite#)](https://github.com/selenite-cc/selenite/graphs/contributors)
-[![Contrib](https://contrib.rocks/image?repo=sl4ckrr.github.io/sl4ckrr#)](https://github.com/sl4ckrr.github.io/ssl4ckrr/graphs/contributors)
-[![Contrib](https://contrib.rocks/image?repo=selenite-cc/selenite#)](https://github.com/selenite-cc/selenite/graphs/contributors)
+<a href="https://github.com/sl4ckrr/sl4ckrr.github.io/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=sl4ckrr/sl4ckrr.github.io" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
 ## Support
 Join R4e's [discord server](https://discord.gg/WDZhkdFyF4) idk for comunity, read rules and use common sense..
