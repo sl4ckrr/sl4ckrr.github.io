@@ -1,8 +1,9 @@
 # sl4ckrr.github.io.
 very coool website check it out.
--150+
--jsemulator
--TSOS | alternnative website links
+
+- 150+
+- jsemulator
+- TSOS | alternnative website links
 - 
 
 # visit the site of sites
