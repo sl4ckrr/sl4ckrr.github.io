@@ -1,7 +1,7 @@
 # sl4ckrr.github.io.
 very coool website check it out.
 
-- 150+
+-150+
 - jsemulator
 - TSOS | alternnative website links
 - 
