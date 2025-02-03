@@ -1,5 +1,9 @@
 # sl4ckrr.github.io.
-
+very coool website check it out.
+-150+
+-jsemulator
+-TSOS | alternnative website links
+- 
 
 # visit the site of sites
 <img src="tsos.jpeg" alt="img here" class="img-fluid" width="40%" height="40%" id="logo">
