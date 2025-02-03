@@ -37,12 +37,17 @@ other socals here:
 <img src="newgrounds_logo.png" alt="img here" class="img-fluid" width="20%" height="20%" id="logo">
 
 ## what is this?
-this is a fork of selenite.cc and how it works is, there are unblocked games and alt site links for them 
+this is a fork of https://selenite.cc check out the website and its cool games!
 ## Contributors
 <a href="https://github.com/sl4ckrr/sl4ckrr.github.io/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=sl4ckrr/sl4ckrr.github.io" />
 </a>
 
 Made with [contrib.rocks](https://contrib.rocks).
+a really easy to use contributers README.md website
+to use:
+a href="https://github.com/user/website/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=sl4ckrr/sl4ckrr.github.io" />
+a
 ## Support
 Join R4e's [discord server](https://discord.gg/WDZhkdFyF4) idk for comunity, read rules and use common sense..
