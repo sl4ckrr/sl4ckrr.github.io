@@ -56,4 +56,6 @@ a really easy to use contributers README.md website!
 Join the sl4ckrr [discord server](https://discord.gg/WDZhkdFyF4) for monthly new game pole(up to 15 new ones) and community.
 
 Join R4e's [discord server](https://discord.gg/WDZhkdFyF4) idk for community, read rules and stuff.
+
+# extras
 not tryna profit off this website obviously its made by sky and just tryna improve website buildig and its fun when bored at school.
