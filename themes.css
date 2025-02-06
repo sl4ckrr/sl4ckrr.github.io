@@ -6,26 +6,18 @@ body {
     --bg: #000000;
 }
 body[theme=custom] {
-    --inputbg: #FF0000;
-    --inputborder: #F0C807;
-    --uibg: #00B496;
-    --textcolor: #514C74;
-    --bg: #333;
+    --inputbg: #3c096c;
+    --inputborder: #5a189a;
+    --uibg: #240046;
+    --textcolor: #fff;
+    --bg: #10002b;
 }
 body[theme=main] {
-     /*sum,purple*/
-    --inputbg: #800080;
-     /*sum,blue*/
-    --inputborder: #0000ff;
-    /*sum,charcoal*/
-    --uibg: #36454f;
-    /*text*/
+    --inputbg: #3c096c;
+    --inputborder: #5a189a;
+    --uibg: #240046;
     --textcolor: #fff;
-    --bg: #333;
-    /*
-    --bg: url("themebgs/background.jpg"), rgb(59, 67, 78);
-     https://wallhaven.cc/w/jxl3qp */
-    --shadow: 0px 0px 2px #a5dcf5;
+    --bg: #10002b;
 }
 body[theme=light] {
     --inputbg: #bbbbbb;
