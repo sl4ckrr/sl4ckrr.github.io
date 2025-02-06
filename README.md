@@ -27,7 +27,7 @@ just drop the file into the project and it will load the gba,gbc,gb wtv idc
   https://sl4ckrr.github.io./jsemulator
 
 
-# - sl4ckrr
+# sl4ckrr
 follow my newgrouds for website updates and bug fixes!
 (https://rhap5ody.newgrounds.com/)
 
